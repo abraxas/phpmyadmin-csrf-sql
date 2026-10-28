@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/phpmyadmin-csrf-sql">phpmyadmin-csrf-sql</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/phpmyadmin-csrf-sql"><strong>https://abraxaslabs.tech/research/phpmyadmin-csrf-sql</strong></a>
+</p>
+
 
 # phpmyadmin-csrf-sql
 
